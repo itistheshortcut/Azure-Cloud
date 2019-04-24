@@ -1,6 +1,6 @@
 # Module 1
 
-\***\*In this module, the lesson will define What is Cloud Services?, Types of Cloud Computing, Types of Cloud Services and Management Responsibilities.\*\***
+****In this module, the lesson will define What is Cloud Services?, Types of Cloud Computing, Types of Cloud Services and Management Responsibilities.****
 
 ---
 
@@ -23,3 +23,16 @@
 - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 
 ---
+
+# Key Terms
+
+- Cloud Computing 
+- economies of scale
+- consumption base model or pay-as-you-go
+- public
+- private
+- hybrid
+- IaaS
+- PaaS
+- Serverless
+- SaaS
