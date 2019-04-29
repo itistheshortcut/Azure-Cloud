@@ -36,6 +36,8 @@
 - PaaS
 - Serverless
 - SaaS
+- Vertical scaling is scaling up
+- Horizontal scaling is scaling down
 
 ### [Click Here: Terms NOT in slide](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/3c-capex-vs-opex)
 
