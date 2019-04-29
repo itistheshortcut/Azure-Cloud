@@ -1,6 +1,6 @@
 # Module 1
 
-\***\*In this module, the lesson will define What is Cloud Services?, Types of Cloud Computing, Types of Cloud Services and Management Responsibilities.\*\***
+***In this module, the lesson will define What is Cloud Services?, Types of Cloud Computing, Types of Cloud Services and Management Responsibilities.***
 
 ---
 
